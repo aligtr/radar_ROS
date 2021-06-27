@@ -11,3 +11,4 @@ https://www.ti.com/product/AWR1443
 https://www.ti.com/lit/an/swra553a/swra553a.pdf?ts=1623952473896&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FMMWAVE-DFP
 https://dev.ti.com/gallery/view/mmwave/mmWaveSensingEstimator/ver/1.4.0/
 http://software-dl.ti.com/ra-processors/esd/MMWAVE-SDK/03_05_00_04/exports/mmwave_sdk_user_guide.pdf
+У драйвера от TI есть проблемы с переходом на ROS Melodic. Переписал несовместимые вещи и залил сюда.
